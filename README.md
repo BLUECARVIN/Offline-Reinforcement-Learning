@@ -11,10 +11,10 @@
 
 [Off-Policy Deep Reinforcement Learning without Exploration, S Fujimoto, et al., ICML 19](http://proceedings.mlr.press/v97/fujimoto19a/fujimoto19a.pdf)
 
-[Behavior Regularized Offline Reinforcement Learning](https://arxiv.org/pdf/1911.11361.pdf)
+[Behavior Regularized Offline Reinforcement Learning, Y Wu, et al., arxiv](https://arxiv.org/pdf/1911.11361.pdf)
 
 [Conservative Q-Learning for Offline Reinforcement Learning, A Kumar, et al., NeuraIPS 20](https://arxiv.org/abs/2006.04779)
 
-[BAIL: Best-Action Imitation Learning for Batch Deep Reinforcement Learning](https://arxiv.org/pdf/1910.12179.pdf)
+[BAIL: Best-Action Imitation Learning for Batch Deep Reinforcement Learning, X Chen, et al., NeuraIPS 20](https://arxiv.org/pdf/1910.12179.pdf)
 ## Model-based
 [MOPO: Model-based Offline Policy Optimization, T Yu, et al., NeurIPS 2020](https://arxiv.org/abs/2005.13239)
