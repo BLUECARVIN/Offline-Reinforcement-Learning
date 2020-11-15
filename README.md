@@ -19,4 +19,7 @@
 
 [Critic Regularized Regression, Z Wang, et al., NeuraIPS 20](https://proceedings.neurips.cc/paper/2020/file/588cb956d6bbe67078f29f8de420a13d-Paper.pdf)
 ## Model-based
-[MOPO: Model-based Offline Policy Optimization, T Yu, et al., NeurIPS 2020](https://arxiv.org/abs/2005.13239)
+[MOPO: Model-based Offline Policy Optimization, T Yu, et al., NeurIPS 20](https://arxiv.org/abs/2005.13239)
+
+## Off-policy Evaluation (OPE)
+[Off-policy Policy Evaluation For Sequential Decisions Under Unobserved Confounding, H Namkoong, et al., arxiv](https://arxiv.org/pdf/2003.05623.pdf)
