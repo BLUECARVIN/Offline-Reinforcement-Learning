@@ -22,5 +22,7 @@
 ## Model-based
 [MOPO: Model-based Offline Policy Optimization, T Yu, et al., NeurIPS 20](https://arxiv.org/abs/2005.13239)
 
+[MOReL: Model-Based Offline Reinforcement Learning, R Kidambi, et al., arxiv](https://arxiv.org/abs/2005.05951)
+
 ## Off-policy Policy Evaluation (OPE)
 [Off-policy Policy Evaluation For Sequential Decisions Under Unobserved Confounding, H Namkoong, et al., arxiv](https://arxiv.org/pdf/2003.05623.pdf)
